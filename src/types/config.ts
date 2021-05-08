@@ -35,7 +35,7 @@ export type ClientConfig = {
     DataRetentionFileRetentionDays: string;
     DataRetentionMessageRetentionDays: string;
     DefaultClientLocale: string;
-    DefaultTheme: 'default' | 'organization' | 'mattermostDark' | 'windows10';
+    DefaultTheme: 'default' | 'organization' | 'grammmDark' | 'windows10';
     DesktopLatestVersion: string;
     DesktopMinVersion: string;
     DiagnosticId: string;
